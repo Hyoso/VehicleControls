@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\King\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\King\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_VehicleControls.1123896140.00" t="ExcludeRecursive" />
+    <e p="F:\Work\UnityProjects\VehicleControls" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="VehicleController.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VehicleControls.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
